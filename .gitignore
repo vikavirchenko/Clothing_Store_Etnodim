@@ -1,0 +1,6 @@
+node_modules
+.DS_Store
+cypress/snapshots/actual
+cypress/results
+reports
+.prettierignore
